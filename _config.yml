@@ -3,3 +3,7 @@ logo: asset/rikul.jpg
 # description: rikul82096@gmail.com
 show_downloads: true
 theme: jekyll-theme-minimal
+github:
+  repository_url: https://github.com/ricool
+  resume_url: https://github.com/ricool/rikuljoshi.github.io/blob/main/Resume-rikull.pdf
+  repository_url2: https://www.linkedin.com/in/rikul-joshi/
