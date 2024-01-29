@@ -1,50 +1,62 @@
 # Software Developer
 
 ## Education
-- M.S., Computer Science| _Arizona State University_ | (_Dec 2023_)  
-- BTech, Computer Science | _SRM Institute of Science and Technology_ | (_May 2021_)
+- M.S., Computer Science| _Cleveland State University_ | (_Dec 2022_)  
+- BTech, Computer Engineering | _Gujarat Technological University_ | (_May 2018_)
 
 ## Skills Summary
-- Languages: Python, C++, JAVA, SQL, JavaScript, HTML, CSS, MATLAB, Linux
-- Frameworks and Libraries: Django, Flask, Pandas, Scikit-learn, TensorFlow, Keras, OpenCV, NumPy, MatplotLib
-- Technology: VS Code, Pycharm, Google Colab, Anaconda, Jupyter Notebook, GIT, Raspberry Pi, Slack, JIRA, Confluence
-- Platforms: Linux, AWS Cloud Services
-- Relevant Coursework: Database Management System, Python Programming, C++ Programming, Data Structures and Algorithm, Analysis of Algorithms, Deep Learning, Data Mining
+- Languages: Java, Python, C++, SQL, React, Angular 2/8/12, JavaScript, Linux
+- J2EE Technologies: JSP, Java Servlets, JDBC, Concurrency/Multithreading, Web Services, SOAP, Restful, log4j  Web
+- Frameworks and Libraries: Spring (Core, MVC, Cloud, Security, Boot, Data), Hibernate, Maven, Gradle, Junit, Django, Flask, Pandas, Scikit-learn, TensorFlow, Keras, OpenCV, NumPy, MatplotLib
+- Web Technologies: HTML5, CSS, XML, Typescript, JSON, JavaScript, jQuery, Ajax, Bootstrap
+- Database: MS SQL Server, MySQL, Oracle, MongoDB, NoSQL
+- Big Data Technologies: HDFS, Hive, Kafka, Spark
+- Cloud Platforms: Amazon Web Services (AWS), Microsoft Azure
+- Tools: IntelliJ, Jenkins, Splunk, SonarQube, JMeter, Git, Jboss, Terraform, Selenium
+- Operating System: Linux, Mac-OS, Windows
 
 ## Experience
-**Graduate Teaching Assistant - Software Validation Verification and Testing @ Arizona State University (_Aug 2022 - Jul 2023_)**
-- Assisted Dr. Tuzmen in teaching, grading the assignments, and preparing and revamping teaching materials for a class of 125+ students for 2 consecutive terms.
-- Conducted weekly office hours to give guidance to grad students on various topics like Specification-based testing, and structural-based testing.
+**Software Developer @ IT Premia (_Nov 2023 - Present_)**
+- Involved in gathering business requirements, analyzing the project and creating Use Cases and Class Diagrams.
+- Coordinated with several teams-the Design team, Business analyst and end users of the system.
+- Created the web UI using Struts, JSP, Servlets and Custom tags.
+- Designed, developed and implemented JSP's in presentation layer for Submission Application Reference implementation. Resolved issues in basic networking components.
 
-**Associate Software Developer @ Tata Consultancy Services (_Jun 2021 - Dec 2021_)**
-- Was involved in developing a scalable order processing system for a UK-based e-commerce company using Java and Microsoft Power Apps.
-- Was involved in optimizing the order workflows, enhancing efficiency of the system and user experience.
+**Technology Analyst @ Infosys [Client: Verizon] (_Jan 2023 - Oct 2023_)**
+- Using Rest Controller in Spring framework to create RESTful Web services and JSON objects for communication.
+- Works with development team to build and deploy their releases.
+- Involved in various phases of Software Development Life Cycle (SDLC), including requirement gathering, modelling,  analysis, architecture design, prototyping, developing and testing.
+- Designing and implementing user-friendly interfaces using ReactJS, enhancing the overall user experience.
+- Create or modify code and test applications which are already deployed to the cloud.
+- Developed microservices as per the business requirements gathering.
+- Adept object-oriented programming language,data structure and algorithms with understanding of software architecture and design principles.
+- Creating Services to consume REST API’s and to communicate between components using Dependency Injection provided by Angular.
+- Implementing Java applications and a wide variety of other software applications using Jboss in lower environment.
+- Migrated application to micro-services architecture.
+- Proficient in React JavaScript library, with experience building responsive and dynamic user interfaces for web  applications.
+- Strong development experience using JavaScript and Java, along with proficiency in web technologies such as API’s,  CSS, XML, and HTML.
+- Demonstrated ability to work independently and as a contributing member of an Agile Scrum based Delivery Team.  Interact with a team to swim unplanned / production issues.
+- Code & test Java applications using IntelliJ, Oracle SQL, and Gitlab.
   
-**Software Developer (ML) - Intern @ Indian Institute of Technology-Kanpur (IIT Kanpur) (_May 2019 - Aug 2019_)**
-- Spearheaded the development of an autonomous road sign detection system, based on YOLO-v3. Was involved in data preprocessing and training the CNN model with our custom data
-- Successfully deployed the model on Raspberry Pi, demonstrating strong technical and project management skills
+**Graduate Teaching Assistant (AI) @ Cleveland State University (_Jan 2022 - May 2022_)**
+- Assess the candidate’s programming skills in relevant languages (e.g., Java, Python, C++).
+- Evaluate their ability to write clean, efficient, and maintainable code.
+- Pose coding challenges or algorithmic problems to gauge their problem-solving abilities and evaluate how well they can analyze issues, design solutions, and debug code.
+- Assess their knowledge of web development technologies, including HTML, CSS, and frontend frameworks (e.g., React,  Angular, Vue.js)
 
-## Project and Research Work
-
-- **TheUrbanSpoon - Open Source Cloud Kitchen Platform**: Developed an open-source system tailored for restaurants to help them set up their online presence as a complete web page capable of placing orders, logistics and handling payments.
-- **EventRight - Open Source Event & Invitation Platform**: Created an event and invitation management platform which is a completely open-source product. The system is capable of handling multiple events, managing invitations and RSVPs, and
-handling guest logistics.
-- **Learnr - Open Source Quiz Generation Platform**: Developed an interactive quiz platform that generates quizzes from custom textbook PDFs that are uploaded into the system. The software also has a dashboard that tracks the progress of each user using default or custom KPIs.
-- **InstructABSA** : Developed a SOTA approach using instruction tuning for the aspect-based sentiment analysis task and also\ carried out in-depth analysis of instructions and comparative analysis with previous approaches.[[2]](https://aclanthology.org/2023.eacl-main.30/)
-- **NLP Model Benchmarking**: Created a benchmarking dataset to evaluate the performance of the large language models (LLM). Demonstrated the areas in which LLMs underperformed like non numerical, attribute comparison and time varying statements. Wrote a paper on the findings, which got accepted at EACL ‘23 conference. [[1]](https://arxiv.org/abs/2210.07471)
-
-## Leadership Experience and Awards
-
-- Guided an 8-member team in the completion of a class project focused on the detection of artificial obstacles by autonomous
-vehicles.
-- Led a group of 7 individuals in the successful execution of a class project centered around the utilization of Transformers for
-the identification of Twitter bots.
-- Received Masters Graduate fellowship for Fall 2022 and Spring 2023 at Arizona State University. The fellowship awards a 2/3
-fee waiver and a monthly stipend for the semester.
-- Efficiently supervised a team of 7 members during my internship at IIT Kanpur and the team was honored with the 3rd best
-project award.
+**Software Developer @ Aellon Technology Pvt Ltd (_Jan 2019 - Dec 2020_)**
+- Spearheade
+- implemented application using Spring MVC framework for maintainability.
+- Used Hibernate for accessing and persisting data between Java objects and a relational database.
+- Used Spring Boot for building cloud Microservices quickly and developing spring-based applications with very less configuration.
+- Developed interaction framework for asset database interaction and developed save and conversion-specific servlets for applet interaction.
+- Worked on Java Maven project with Hibernate framework for developing new features and modification requests.
+- Created several custom tags for JSP for maximum user interface components.
+- Modeled JSON data from the database and coded request handlers for parsing and sending relevant data to the client(browser) side.
+- Worked with PL/SQL for implementation of SQL triggers for preventing invalid transactions and imposing security authorization.
+- Collaborated code with other developers using GitHub web-based repository.
 
 ## Contact Information
-- Email: siddharthgoyal198@gmail.com
-- Phone: +17078713898
-- Linkedin: [Siddharth Goyal](https://www.linkedin.com/in/siddharth-goyal-8b1a4814b/)
+- Email: rikul82096@gmail.com
+- Phone: +1 (773)558-4731
+- Linkedin: [Rikul Joshi](https://www.linkedin.com/in/rikul-joshi/)
