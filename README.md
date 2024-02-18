@@ -17,26 +17,18 @@
 
 ## Experience
 **Software Developer @ IT Premia (_Nov 2023 - Present_)**
-- Involved in gathering business requirements, analyzing the project and creating Use Cases and Class Diagrams.
-- Coordinated with several teams-the Design team, Business analyst and end users of the system.
-- Created the web UI using Struts, JSP, Servlets and Custom tags.
-- Designed, developed and implemented JSP's in presentation layer for Submission Application Reference implementation. Resolved issues in basic networking components.
+- Involving requirements gathering, analysis, design, development, and testing production of an application using the Agile model.
+- Design and Coding of various Java, and J2EE modules like Spring Boot, Spring MVC, and Spring Rest.
+- Developing user interface using JSP Tag libraries such as JSTL, HTML, CSS, React, and JavaScript to simplify the complexities of the application.
+- Responsible for creating and maintaining architecture for Restful API using Spring Boot.
+- Demonstrate leadership abilities in a team with an engineering environment in driving operational excellence and best practice.
+- Developing a business continuity plan for the MySQL Databases using JDBC drivers.
 
 **Technology Analyst @ Infosys [Client: Verizon] (_Jan 2023 - Oct 2023_)**
-- Using Rest Controller in Spring framework to create RESTful Web services and JSON objects for communication.
-- Works with development team to build and deploy their releases.
-- Involved in various phases of Software Development Life Cycle (SDLC), including requirement gathering, modelling,  analysis, architecture design, prototyping, developing and testing.
-- Designing and implementing user-friendly interfaces using ReactJS, enhancing the overall user experience.
-- Create or modify code and test applications which are already deployed to the cloud.
-- Developed microservices as per the business requirements gathering.
-- Adept object-oriented programming language,data structure and algorithms with understanding of software architecture and design principles.
-- Creating Services to consume REST API’s and to communicate between components using Dependency Injection provided by Angular.
-- Implementing Java applications and a wide variety of other software applications using Jboss in lower environment.
-- Migrated application to micro-services architecture.
-- Proficient in React JavaScript library, with experience building responsive and dynamic user interfaces for web  applications.
-- Strong development experience using JavaScript and Java, along with proficiency in web technologies such as API’s,  CSS, XML, and HTML.
-- Demonstrated ability to work independently and as a contributing member of an Agile Scrum based Delivery Team.  Interact with a team to swim unplanned / production issues.
-- Code & test Java applications using IntelliJ, Oracle SQL, and Gitlab.
+- Involved with custom solutions using JavaScript, jQuery, ASP.NET, and C#.
+- Designed & implemented various programming languages for development purposes like HTML, CSS, JavaScript, and React from the frontend side while Microsoft SQL server and Java from the backend side.
+- Worked closely with project and support team members to foster high customer satisfaction and generate profit.
+- Participated in code reviews, quarterly and stand-up meetings to understand the best practices for coding, business flow, and decision-making process of each sprint using Jira board.
   
 **Graduate Teaching Assistant (AI) @ Cleveland State University (_Jan 2022 - May 2022_)**
 - Assess the candidate’s programming skills in relevant languages (e.g., Java, Python, C++).
@@ -45,16 +37,12 @@
 - Assess their knowledge of web development technologies, including HTML, CSS, and frontend frameworks (e.g., React,  Angular, Vue.js)
 
 **Software Developer @ Aellon Technology Pvt Ltd (_Jan 2019 - Dec 2020_)**
-- Spearheade
-- implemented application using Spring MVC framework for maintainability.
-- Used Hibernate for accessing and persisting data between Java objects and a relational database.
-- Used Spring Boot for building cloud Microservices quickly and developing spring-based applications with very less configuration.
-- Developed interaction framework for asset database interaction and developed save and conversion-specific servlets for applet interaction.
-- Worked on Java Maven project with Hibernate framework for developing new features and modification requests.
-- Created several custom tags for JSP for maximum user interface components.
-- Modeled JSON data from the database and coded request handlers for parsing and sending relevant data to the client(browser) side.
-- Worked with PL/SQL for implementation of SQL triggers for preventing invalid transactions and imposing security authorization.
-- Collaborated code with other developers using GitHub web-based repository.
+- Implemented SDLC methodologies including Waterfall.
+- Designed and developed web interfaces and business logic using Spring MVC Framework, JSP, Servlets, JavaBeans, JDBC, AJAX, jQuery, JavaScript, HTML, and XML technologies.
+- Developed server-side application to interact with the database using Spring Boot and Hibernate.
+- Involved in designing and developing presentation layer using JSF, AJAX, jQuery, and third-party libraries.
+- Implemented microservices using Spring Boot for Rest API calls.
+- Worked Closely with the consumer teams and clients in investigating or troubleshooting issues found in existing features and providing a quality fix with a quick turnaround.
 
 ## Contact Information
 - Email: rikul82096@gmail.com
